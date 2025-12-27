@@ -1,4 +1,4 @@
-### Link BE: https://github.com/billtai26/Trello_clone_api.git
+### Link source BE: https://github.com/billtai26/Trello_clone_api.git
 ### Các bước tiến hành chạy
 
 * Bước 1: Cài đặt yarn trên CMD bằng lệnh: npm install --global yarn
